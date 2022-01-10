@@ -6,7 +6,7 @@
 >
 > &#x20;이는 2008년에 발표된 Nakamoto Satoshi의 논문 \<Bitcoin: A peer-to-peer electronic cash system>에서 암호화폐인 비트코인(Bitcoin)의 이중지불을 방지하기 위한 데이터 기록 및 검증 기술로서 처음 제안되었다.
 
-![그림 1 블록ㅔㅣ](<../../.gitbook/assets/01.19324070.1 (2).jpg>)
+![그림 1 블록체인](<../../.gitbook/assets/01.19324070.1 (2).jpg>)
 
 ## 토큰(암호화폐)
 
