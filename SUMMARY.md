@@ -4,9 +4,9 @@
 
 ## 용어 사전
 
-* [개념](undefined/undefined.md)
-* [블록체인 기술](undefined/undefined-1.md)
-* [토큰](undefined/undefined-2.md)
+* [개념](undefined/page-5.md)
+* [블록체인 기술](undefined/page-1.md)
+* [토큰](undefined/page-2.md)
 * [네트워크(체인)](undefined/undefined-3.md)
 * [스마트 컨트랙트](undefined/undefined-4.md)
 * [NFT 아트](undefined/nft.md)
