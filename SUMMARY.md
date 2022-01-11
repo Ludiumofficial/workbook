@@ -21,3 +21,4 @@
   * [블록체인 게임](undefined/undefined-12.md)
   * [프로젝트](undefined/undefined-13.md)
   * [웹 3.0](undefined/3.0.md)
+* [루디움 백서](https://ludium.gitbook.io/whitepaper/)
