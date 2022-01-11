@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Wellcome](README.md)
-* [개념](undefined/README.md)
-  * [블록체인](undefined/undefined-1.md)
-  * [토큰(암호화폐)](undefined/undefined.md)
+* [개념](undefined/undefined.md)
+  * [블록체인](undefined/undefined-1/README.md)
+  * [토큰(암호화폐)](undefined/undefined-1/undefined.md)
   * [네트워크(체인)](undefined/undefined-2.md)
   * [NFT](undefined/nft.md)
   * [토큰 이코노미](undefined/undefined-3.md)
