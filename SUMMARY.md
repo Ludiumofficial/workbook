@@ -9,6 +9,7 @@
   * [토큰 이코노미](undefined/undefined-3.md)
   * [온체인](undefined/undefined-4.md)
   * [오프체인](undefined/undefined-5.md)
+  * [스마트 컨트랙트](undefined/undefined-6.md)
   * [DAO](undefined/dao.md)
   * [Defi](undefined/defi.md)
   * [dAPP](undefined/dapp.md)
@@ -19,5 +20,4 @@
   * [프로토콜](undefined/undefined-11.md)
   * [블록체인 게임](undefined/undefined-12.md)
   * [프로젝트](undefined/undefined-13.md)
-  * [스마트 컨트랙트](undefined/undefined-6.md)
   * [웹 3.0](undefined/3.0.md)
