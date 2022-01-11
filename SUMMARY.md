@@ -4,7 +4,6 @@
 
 ## 개념
 
-* [개념](undefined/undefined.md)
 * [블록체인](undefined/undefined-1/README.md)
   * [토큰(암호화폐)](undefined/undefined-1/undefined.md)
 * [네트워크(체인)](undefined/undefined-2.md)
@@ -24,6 +23,7 @@
 * [블록체인 게임](undefined/undefined-12.md)
 * [프로젝트](undefined/undefined-13.md)
 * [웹 3.0](undefined/3.0.md)
+* [개념](undefined/undefined.md)
 
 ## 블록체인 기술
 
