@@ -8,18 +8,14 @@ coverY: 0
 
 머릿말
 
-수정 및 문의 댓글로
-
-댓글 작성 가이드
+문의 및 제안
 
 {% tabs %}
 {% tab title="STEP.1" %}
-
+{% embed url="https://form.typeform.com/to/HshZIfTI" %}
 {% endtab %}
 
 {% tab title="STEP.2" %}
 
 {% endtab %}
 {% endtabs %}
-
-{% embed url="https://form.typeform.com/to/HshZIfTI" %}
