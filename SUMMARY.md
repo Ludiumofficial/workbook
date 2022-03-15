@@ -1,6 +1,6 @@
 # Table of contents
 
-* [용어 사전 서문(Gem- Glossary)](README.md)
+* [Gem-Glossary](README.md)
 
 ## GSB(Gem-Study Basic)
 
