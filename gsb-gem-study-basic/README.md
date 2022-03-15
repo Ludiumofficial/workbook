@@ -1,2 +1,0 @@
-# GSB(Gem-Study Basic)
-

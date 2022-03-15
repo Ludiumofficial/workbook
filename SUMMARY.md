@@ -2,19 +2,24 @@
 
 * [Wellcome](README.md)
 * [용어 사전 서문(Gem- Glossary)](gem-glossary.md)
-* [GSB(Gem-Study Basic)](gsb-gem-study-basic/README.md)
-  * [1주차:](gsb-gem-study-basic/1/README.md)
-    * [NFT](gsb-gem-study-basic/1/nft.md)
-    * [블록체인](gsb-gem-study-basic/1/undefined.md)
-    * [스마트 컨트랙트](gsb-gem-study-basic/1/undefined-1.md)
-    * [뭐시기](gsb-gem-study-basic/1/undefined-2.md)
-  * [2주차](gsb-gem-study-basic/2.md)
-  * [3주차](gsb-gem-study-basic/3.md)
-  * [4주차](gsb-gem-study-basic/4.md)
-  * [5주차](gsb-gem-study-basic/5.md)
-  * [6주차](gsb-gem-study-basic/6.md)
-  * [7주차](gsb-gem-study-basic/7.md)
-  * [8주차](gsb-gem-study-basic/8.md)
+
+## GSB(Gem-Study Basic)
+
+* [1주차:](gsb-gem-study-basic/1/README.md)
+  * [NFT](gsb-gem-study-basic/1/nft.md)
+  * [블록체인](gsb-gem-study-basic/1/undefined.md)
+  * [스마트 컨트랙트](gsb-gem-study-basic/1/undefined-1.md)
+  * [뭐시기](gsb-gem-study-basic/1/undefined-2.md)
+* [2주차](gsb-gem-study-basic/2.md)
+* [3주차](gsb-gem-study-basic/3.md)
+* [4주차](gsb-gem-study-basic/4.md)
+* [5주차](gsb-gem-study-basic/5.md)
+* [6주차](gsb-gem-study-basic/6.md)
+* [7주차](gsb-gem-study-basic/7.md)
+* [8주차](gsb-gem-study-basic/8.md)
+
+***
+
 * [GSA(Gem-Study Advanced)](gsa-gem-study-advanced/README.md)
   * [1주차: 크립토의 연원](gsa-gem-study-advanced/1/README.md)
     * [크립토](gsa-gem-study-advanced/1/undefined.md)
@@ -122,6 +127,7 @@
     * [자동마켓메이커(AMM)](defi/amm.md)
     * [일드 파밍(Yeild Farming)](defi/yeild-farming.md)
     * [스테이블 코인](defi/undefined-2.md)
+* [Page 1](page-1.md)
 
 ## Links
 
