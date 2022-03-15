@@ -21,8 +21,11 @@
 #### 1. GSB(Gem-Study Basic)
 
 1. NFT와 크립토 생태계
+2.
 
 #### 2. GSA(Gem-Study Advanced)
+
+1. 크립토의 연원
 
 
 
