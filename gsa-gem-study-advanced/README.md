@@ -1,2 +1,0 @@
-# GSA(Gem-Study Advanced)
-
