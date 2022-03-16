@@ -4,12 +4,8 @@
 
 * [WELCOME](README.md)
 * [분류 기준](gem-glossary/undefined.md)
-* [수정 제안](gem-glossary/undefined-1.md)
+* [용어 제안](gem-glossary/undefined-1.md)
 * [목차](gem-glossary/undefined-2.md)
-
-***
-
-* [Gem-Glossary](gem-glossary-1.md)
 
 ## GSB(Gem-Study Basic)
 
