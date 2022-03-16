@@ -4,8 +4,8 @@
 
 * [WELCOME](README.md)
 * [분류 기준](gem-glossary/undefined.md)
-* [목차](gem-glossary/undefined-1.md)
-* [수정 제안](gem-glossary/undefined-2.md)
+* [수정 제안](gem-glossary/undefined-1.md)
+* [목차](gem-glossary/undefined-2.md)
 
 ***
 
