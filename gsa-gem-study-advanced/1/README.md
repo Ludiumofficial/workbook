@@ -1,6 +1,6 @@
-# 1주차: 왜 크립토인가
+# 1주차: 왜 크립토인가?
 
-### 커리큘
+## 커리큘
 
 ### “만인에게 프라이버시를”, 1970년 크립토의 시작
 
@@ -28,7 +28,7 @@
    * 사이버라는 공간을 활용해 멀티버스를 연결하는 버추얼 커뮤니티의 탄생 예견
    * 이들이 추구한 형태를 크립토 아나키즘이라고 부름. 아나키즘은 무정부를 의미하지만 실질적으로 크립토와 디지털이라는 기술을 통해 새로운 형태의 조직, 버추얼 커뮤니티의 탄생을 원했음
 
-#### 비트코인과 크립토 커런시
+### 비트코인과 크립토 커런시
 
 1. 금융 기관을 거치지 않는 화폐의 탄생
 2. 비트코인의 기술적 구성
@@ -37,12 +37,12 @@
    * 작업 증명: 더 많은 컴퓨팅 파워가 참여할수록 안전성 증가. 참여에 대한 인센티브 제공.
 3. 기술과 사상의 결합
 
-#### 그래서 지금
+### 그래서 지금
 
 1. 크립토를 왜 하려는 걸까? (탈중앙성 vs 편의성의 딜레마)
 2. 우리들의 이야기
 
-### 레퍼런스
+## 레퍼런스
 
 1. History of cryptography:[https://www.youtube.com/watch?v=ZLCEBFJP1ew](https://www.youtube.com/watch?v=ZLCEBFJP1ew)
 2. New Directions in cryptography:[https://ee.stanford.edu/\~hellman/publications/24.pdf](https://ee.stanford.edu/\~hellman/publications/24.pdf)
@@ -53,6 +53,6 @@
 7. 비트코인 백서:[https://bitcoin.org/files/bitcoin-paper/bitcoin\_ko.pdf](https://bitcoin.org/files/bitcoin-paper/bitcoin\_ko.pdf)
 8. Bitcoin Core Source Code:[https://github.com/bitcoin/bitcoin](https://github.com/bitcoin/bitcoin)
 
-#### PPT
+## PPT
 
 [GSA wk.1.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9e3cbec-d252-4f6e-bbf9-bf52d247c288/GSA\_wk.1.pdf)
