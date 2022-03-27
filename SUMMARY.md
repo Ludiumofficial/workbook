@@ -24,7 +24,7 @@
 
 ## GSA(Gem-Study Advanced)
 
-* [1주차: 크립토는 왜 생겼을까](gsa-gem-study-advanced/1/README.md)
+* [1주차: 왜 크립토인가](gsa-gem-study-advanced/1/README.md)
   * [크립토](gsa-gem-study-advanced/1/undefined.md)
   * [NSA](gsa-gem-study-advanced/1/nsa.md)
   * [DES](gsa-gem-study-advanced/1/des.md)
