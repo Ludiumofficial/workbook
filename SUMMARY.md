@@ -63,7 +63,7 @@
   * [내러티브](gsa-gem-study-advanced/wk2-101/undefined-10.md)
   * [홀더](gsa-gem-study-advanced/wk2-101/undefined-11.md)
   * [IRL](gsa-gem-study-advanced/wk2-101/irl.md)
-* [WK3:](gsa-gem-study-advanced/wk3/README.md)
+* [WK3: 블록체인 만져보기](gsa-gem-study-advanced/wk3/README.md)
   * [온-체인](gsa-gem-study-advanced/wk3/undefined.md)
   * [오프-체인](gsa-gem-study-advanced/wk3/undefined-1.md)
   * [메인넷](gsa-gem-study-advanced/wk3/undefined-2.md)
