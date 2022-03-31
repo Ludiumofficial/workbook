@@ -7,6 +7,10 @@
 * [용어 제안](gem-glossary/undefined-1.md)
 * [목차](gem-glossary/undefined-2.md)
 
+***
+
+* [Page 1](page-1.md)
+
 ## GSB(Gem-Study Basic)
 
 * [1주차: NFT와 크립토 생태계](gsb-gem-study-basic/1-nft/README.md)
@@ -63,7 +67,22 @@
   * [내러티브](gsa-gem-study-advanced/2-101/undefined-10.md)
   * [홀더](gsa-gem-study-advanced/2-101/undefined-11.md)
   * [IRL](gsa-gem-study-advanced/2-101/irl.md)
-* [3주차:](gsa-gem-study-advanced/3.md)
+* [3주차:](gsa-gem-study-advanced/3/README.md)
+  * [온-체인](gsa-gem-study-advanced/3/undefined.md)
+  * [오프-체인](gsa-gem-study-advanced/3/undefined-1.md)
+  * [메인넷](gsa-gem-study-advanced/3/undefined-2.md)
+  * [레이어1](gsa-gem-study-advanced/3/1.md)
+  * [레이어2](gsa-gem-study-advanced/3/2.md)
+  * [디앱](gsa-gem-study-advanced/3/undefined-3.md)
+  * [메타데이터](gsa-gem-study-advanced/3/undefined-4.md)
+  * [JSON 파일](gsa-gem-study-advanced/3/json.md)
+  * [IPFS](gsa-gem-study-advanced/3/ipfs.md)
+  * [Arweave](gsa-gem-study-advanced/3/arweave.md)
+  * [오픈 채플린](gsa-gem-study-advanced/3/undefined-5.md)
+  * [온체인 데이터](gsa-gem-study-advanced/3/undefined-6.md)
+  * [잉글리시 옥션](gsa-gem-study-advanced/3/undefined-7.md)
+  * [더치 옥션](gsa-gem-study-advanced/3/undefined-8.md)
+  * [디스코드](gsa-gem-study-advanced/3/undefined-9.md)
 * [4주차:](gsa-gem-study-advanced/4.md)
 * [5주차:](gsa-gem-study-advanced/5.md)
 * [6주차:](gsa-gem-study-advanced/6.md)
