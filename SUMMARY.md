@@ -16,7 +16,7 @@
   * [비트코인](gsb-gem-study-basic/wk1-nft/undefined-1.md)
   * [이더리움](gsb-gem-study-basic/wk1-nft/undefined-2.md)
   * [Opensea](gsb-gem-study-basic/wk1-nft/opensea.md)
-  * [탈중앙화](gsb-gem-study-basic/wk1-nft/undefined-3.md)
+  * [탈중앙성](gsb-gem-study-basic/wk1-nft/undefined-3.md)
   * [메인넷](gsb-gem-study-basic/wk1-nft/undefined-4.md)
   * [스마트 컨트랙트](gsb-gem-study-basic/wk1-nft/undefined-5.md)
   * [메타데이터](gsb-gem-study-basic/wk1-nft/undefined-6.md)
