@@ -1,2 +1,9 @@
 # 메타데이터
 
+<details>
+
+<summary>스마트 컨트랙트 / NFT</summary>
+
+
+
+</details>
