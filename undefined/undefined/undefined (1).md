@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>개념 / 토큰 이코노미 / 암호화폐</summary>
+<summary>암호화폐 / 개념 / 토큰 이코노미</summary>
 
 
 

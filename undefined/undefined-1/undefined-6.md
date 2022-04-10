@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>역사 / 암호학</summary>
+<summary>암호학 / 역사</summary>
 
 
 

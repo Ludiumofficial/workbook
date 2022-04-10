@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>개념 / 블록체인 / 암호화폐</summary>
+<summary>암호화폐 / 개념 / 블록체인</summary>
 
 
 
