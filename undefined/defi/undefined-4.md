@@ -1,2 +1,0 @@
-# 담보(Collateral)
-
