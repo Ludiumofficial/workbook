@@ -1,11 +1,11 @@
-# 컬렉터블
+# 에어드랍
 
 <details>
 
-<summary>NFT</summary>
+<summary>NFT / 토큰 이코노미</summary>
 
 
 
 </details>
 
-컬렉터블(Collectables)이란 수집 가능한 NFT의 유형을 가리킨다. 각기 서로 다른 희귀도를 가진 PFP(Picture for Profile)나 Topshot과 같은 수집형 스포츠 카드가 컬렉터블 NFT에 속한다.
+에어드랍은 NFT를 무료로 지갑에 전송해주는 경우를 말한다. 본래 암호화폐를 무료로 보내주는 것을 표현하는 용어로 사용되어왔는데, 에어드랍이라는 개념을 NFT로 그대로 가져와 NFT 작가들이나 프로젝트 측에서 이벤트를 열 때 NFT를 에어드랍해주곤 한다.

@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>암호화폐 / 스마트 컨트랙트</summary>
+<summary>스마트 컨트랙트 / 암호화폐</summary>
 
 
 
