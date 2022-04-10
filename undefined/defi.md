@@ -1,2 +1,11 @@
 # Defi
 
+<details>
+
+<summary>개념 / Defi</summary>
+
+
+
+</details>
+
+Defi는탈중앙화를 의미하는 'Decentralized'와 금융을 뜻하는 'finance'의 합성어로, 탈중앙화된 분산 금융시스템을 지칭한다. 블록체인 네트워크인 비트코인, 이더리움 네트워크 위에서 암호화폐 기반의 담보 대출 등의 형태로 작동된다.
