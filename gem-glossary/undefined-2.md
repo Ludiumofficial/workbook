@@ -23,9 +23,9 @@
 
 #### **2.** GSB(Gem-Study Basic)
 
-* WK1: NFT와 크립토 생태계&#x20;
-* WK2: NFT의 연원과 특성&#x20;
-* WK3: NFT 마켓플레이스와 민팅 실습&#x20;
+* [WK1: NFT와 크립토 생태계 ](../gsb-gem-study-basic/wk1-nft/)
+* [WK2: NFT의 연원과 특성 ](../gsb-gem-study-basic/wk2-nft.md)
+* [WK3: NFT 마켓플레이스와 민팅 실습 ](../gsb-gem-study-basic/wk3-nft.md)
 * WK4:&#x20;
 * WK5:&#x20;
 * WK6:&#x20;
@@ -34,16 +34,16 @@
 
 #### 3. GSA(Gem-Study Advanced)
 
-* WK1: 왜 크립토인가?&#x20;
-* WK2: 토크노믹스 101&#x20;
-* WK3: 블록체인 만져보기&#x20;
-* WK4: NFT와 내러티브&#x20;
-* WK5: 디파이와 크립토 파이낸스&#x20;
-* WK6: 다오와 조직 구조&#x20;
-* WK7: 크립토로 정치하는 법(feat. 현실 법)&#x20;
-* WK8: 크립토 계좌 관리하기&#x20;
-* WK9: 크립토 커뮤니티 기획(feat. 루디움)&#x20;
-* WK10: 전체 발표
+* [WK1: 왜 크립토인가? ](../gsa-gem-study-advanced/wk1/)
+* [WK2: 토크노믹스 101 ](../gsa-gem-study-advanced/wk2-101/)
+* [WK3: 블록체인 만져보기](../gsa-gem-study-advanced/wk3/)&#x20;
+* [WK4: NFT와 내러티브 ](../gsa-gem-study-advanced/wk4.md)
+* [WK5: 디파이와 크립토 파이낸스 ](../gsa-gem-study-advanced/wk5.md)
+* [WK6: 다오와 조직 구조 ](../gsa-gem-study-advanced/wk6.md)
+* [WK7: 크립토로 정치하는 법(feat. 현실 법) ](../gsa-gem-study-advanced/wk7.md)
+* [WK8: 크립토 계좌 관리하기 ](../gsa-gem-study-advanced/wk8.md)
+* [WK9: 크립토 커뮤니티 기획(feat. 루디움) ](../gsa-gem-study-advanced/wk9.md)
+* [WK10: 전체 발표](../gsa-gem-study-advanced/wk10.md)
 
 
 
