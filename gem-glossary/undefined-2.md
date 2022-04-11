@@ -8,18 +8,18 @@
 
 **1. 주제 별 분류**
 
-* [개념](../undefined/undefined/)
-* 블록체인
-* NFT
-* 암호화폐
-* 스마트 컨트랙트
-* Defi
-* 네크워크
-* 토큰 이코노미
-* dAPP
-* 암호학
-* 역사
-* 도구
+* [개념  ](../undefined/undefined/)
+* [블록체인](https://app.gitbook.com/o/8nTKpfJJXu2x3eJLUT4M/s/qRGIhmS67lw5DEBAFVDR/)
+* [NFT](../nft/)
+* [암호화폐](../undefined/undefined-2/)
+* [스마트 컨트랙트](../undefined/undefined-3/)
+* [Defi](../defi/)
+* [네크워크](../undefined/undefined-4/)
+* [토큰 이코노미](../undefined/undefined-5/)
+* [dAPP](../dapp.md)
+* [암호학](undefined-2.md#undefined)
+* [역사](../undefined/undefined-7/)
+* [도구](<../undefined/undefined-5/README (1).md>)
 
 #### **2.** GSB(Gem-Study Basic)
 
