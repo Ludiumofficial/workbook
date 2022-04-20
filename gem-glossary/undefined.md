@@ -1,7 +1,7 @@
 # 분류 기준
 
-1. **For GSB(Gem-Study Basic)**
-2. **For** **GSA(Gem-Study Advanced)**
+1. **For Gem-Study Basic**
+2. **For Gem-Study Advanced**
 3. **주제 별 분류**
 
 용어 사전은 총 세 가지의 분류 기준으로 구성되어 있어. 루디움에서 운영하고 있는 크립토 온보딩 프로그램인 **젬 스터디(GSB, GSA)의 커리큘럼 별**로 용어를 분류한 두 개의 파트, 그리고 각 **주제 별**로 용어들을 분류한 파트로 나뉘어져.
