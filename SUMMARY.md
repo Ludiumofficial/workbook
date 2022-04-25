@@ -315,5 +315,5 @@
 * [루디움 백서](https://ludium.gitbook.io/whitepaper/)
 * [GEM-STUDY](https://ludium.gitbook.io/gem-study/)
 * [GEM-STORAGE](https://ludium.gitbook.io/gem-storage/)
-* [프로젝트 분류](https://ludium.gitbook.io/projecet/)
-* [디스코드 이용가이드](https://ludium.gitbook.io/discord/)
+* [CRYPTO PROJCET](https://ludium.gitbook.io/projecet/)
+* [DISCORD GUIDE](https://ludium.gitbook.io/discord/)
