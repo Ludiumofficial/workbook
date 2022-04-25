@@ -36,7 +36,7 @@
 
 * [WK1: 왜 크립토인가? ](../gem-study-advanced/1./)
 * [WK2: 토크노믹스 101 ](../gem-study-advanced/2.-101/)
-* [WK3: 블록체인 만져보기](../gem-study-advanced/wk3/)&#x20;
+* [WK3: 블록체인 만져보기](../gem-study-advanced/3./)&#x20;
 * [WK4: NFT와 내러티브 ](../gem-study-advanced/wk4.md)
 * [WK5: 디파이와 크립토 파이낸스 ](../gem-study-advanced/wk5.md)
 * [WK6: 다오와 조직 구조 ](../gem-study-advanced/wk6.md)

@@ -1,8 +1,8 @@
-# WK1: NFT와 크립토 생태계
+# 1. NFT와 크립토 생태계
 
 ### 커리큘럼 개요
 
-[(GSB 1주차 커리큘럼 상세)](https://www.notion.so/ludium/1-d3bd9879809a415ab82510e69772708e)
+[(GSB 1주차 커리큘럼 상세)](https://ludium.gitbook.io/gem-study/gem-study-baisc-gsb/1.-nft)
 
 1. NFT란?
 2. NFT의 구성

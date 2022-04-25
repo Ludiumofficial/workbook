@@ -1,8 +1,8 @@
-# WK3: 블록체인 만져보기
+# 3. 블록체인 만져보기
 
 ### 커리큘럼 개요
 
-(GSA 3주차 커리큘럼 상세)&#x20;
+[(GSA 3주차 커리큘럼 상세) ](https://ludium.gitbook.io/gem-study/gem-study-advanced-gsa/3.)
 
 1. 블록체인과 생태계의 구조
 2. 간단한 블록체인 실습

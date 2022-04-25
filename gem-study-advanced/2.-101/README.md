@@ -1,8 +1,8 @@
-# 2주차: 토크노믹스 101
+# 2. 토크노믹스 101
 
 ### 커리큘럼 개요
 
-(GSA 2주차 커리큘럼 상세)
+[(GSA 2주차 커리큘럼 상세)](https://ludium.gitbook.io/gem-study/gem-study-advanced-gsa/2.-101)
 
 1. 크립토 비즈니스와 토크노믹스의 관계
 2. 비즈니스를 한다는 것

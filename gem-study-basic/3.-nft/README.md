@@ -1,10 +1,8 @@
-# WK3: NFT마켓플레이스와 민팅 실습
-
-
+# 3. NFT마켓플레이스와 민팅 실습
 
 ### 커리큘럼 개요
 
-&#x20;(GSB 3주차 커리큘럼 상세)
+[ (GSB 3주차 커리큘럼 상세)](https://ludium.gitbook.io/gem-study/gem-study-baisc-gsb/3.-nft)
 
 1. NFT 마켓플레이스
 2. 오픈씨 이해하기

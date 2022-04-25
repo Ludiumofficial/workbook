@@ -1,8 +1,8 @@
-# WK2: NFT의 연원과 특성
+# 2. NFT의 연원과 특성
 
 ### 커리큘럼 개요&#x20;
 
-(GSB 2주차 커리큘럼 상세)
+[(GSB 2주차 커리큘럼 상세)](https://ludium.gitbook.io/gem-study/gem-study-baisc-gsb/2.-nft)
 
 1. NFT 탄생의 배경(웹3.0)
 2. NFT의 연원
